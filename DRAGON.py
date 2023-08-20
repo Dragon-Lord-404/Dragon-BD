@@ -8171,6 +8171,7 @@ def innocent():
     pwx = ['fisrt6digit', 'first7digit', 'first8digit', 'first9digit', 'first10digit', 'last6digit', 'last7digit', 'last8digit', 'last9digit', 'last10digit', 'fullnumber', '102030', '203040', '304050', '405060', '506070', '607080', '708090']
     with ThreadPool(max_workers=30) as BilalHaiderID:
         tl = str(len(user_ID))
+	os.system("clear")
         print(logo)
         print(f" {GREEN}[*]{WHITE} Total UID for Crack : {tl}")
         print(f" {GREEN}[*]{WHITE} Total Password for Crack : {str(len(pwx))}")
