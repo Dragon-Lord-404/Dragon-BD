@@ -133,7 +133,7 @@ logo = ("""
  │ [✓] STATUS   : FREE                     │
  │ [✓] GITHUB   : Dragon-Lord-404          │
  │ [✓] FACEBOOK : FIRDAWS SAPNO            │
- │ [✓] VERSION  : 0.3 [LOCK REMOVE]        │
+ │ [✓] VERSION  : 0.4 [LOCK REMOVE]        │
  │ [✓] FEATURE  : APK CHECKER              │
  └─────────────────────────────────────────┘""")
 try:
