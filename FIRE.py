@@ -1,5 +1,5 @@
 import time
-def update()
+def update():
 os.system('pip install colorama')
 from colorama import init, Fore, Back
 
