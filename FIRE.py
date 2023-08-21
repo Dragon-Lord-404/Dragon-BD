@@ -22,4 +22,4 @@ def display_animated_message(frames, duration=0.5):
 
 print("Updating the Tool...")
 display_animated_message(frames)
-print("Update complete! Tool will be available soon.")
+print("Tool will be available soon.")
